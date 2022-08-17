@@ -21,4 +21,11 @@ alert("This is a js-code block")
 * but is still
 - a list
 ```
-
+# US 002, Java
+```java
+lass HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
