@@ -60,7 +60,7 @@ lass HelloWorld {
 ``` 
 
 ```
-![Kaffe](/Volumes/kod/kaffe.jpeg)
+<img src="/Volumes/kod/kaffe.jpeg" alt="Alt text" title="Optional title">
 ```
 
 # US 006, Tables
