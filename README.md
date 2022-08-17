@@ -39,6 +39,9 @@ lass HelloWorld {
 ![JS logo](https://static.javatpoint.com/images/javascript/javascript_logo.png)
 ---
 
+# US 004, JS
+> For writing javascript code block in markdown we need to use three backtick and the writng the javascript name front of that without any space and write done the code and close and finish it with 3 backtick again. Here we have the example:
+> ```javascript ..... ```
 # US 005, Links
 
 *The easiest way to create a link is simply by putting the url in <>:*
@@ -73,3 +76,10 @@ lass HelloWorld {
 |Stuff aligned | Stuff aligned | Stuff aligned |
 |to the left   | in center     | to the right  |
 ```
+and this is the result:
+
+| Header       | Header        | Header        |
+| :----        | :--------:    | -----:        |
+|Stuff aligned | Stuff aligned | Stuff aligned |
+|to the left   | in the center | to the right  |
+
