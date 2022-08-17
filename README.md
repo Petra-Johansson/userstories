@@ -33,14 +33,17 @@ Class HelloWorld {
 
 # US 005, Links
 *The easiest way to create a link is simply by putting the url in <>:*
+```
 <https://github.com/Petra-Johansson/userstories>
-
+```
 *If you want to, you can also add a Title to your link:*
+```
 [Link to Repo](https://github.com/petra-johansson/userstories "This is the way you link to a specific webpage")
-
+```
 
 **You can also create reference links*
+```
 [Ref to repo-link][1]
 
 [1]: <https://github.com/Petra-Johansson/userstories>
-
+```
