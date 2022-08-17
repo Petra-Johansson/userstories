@@ -30,6 +30,12 @@ Class HelloWorld {
     }
 }
 ```
+---
+
+# US 003, Insert image
+> For inserting an image through its link we can write the the link of the image in parentheses.
+[JS logo](https://static.javatpoint.com/images/javascript/javascript_logo.png)
+---
 
 # US 005, Links
 *The easiest way to create a link is simply by putting the url in <>:*
