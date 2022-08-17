@@ -21,4 +21,5 @@ alert("This is a js-code block")
 * but is still
 - a list
 ```
-
+# US 005, Links
+[Link to Repo](https://github.com/petra-johansson/userstories "This is the way you link to a specific webpage")
