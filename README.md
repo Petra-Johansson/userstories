@@ -6,6 +6,7 @@ function jsblock(){
 alert("This is a js-code block")
 }
 ```
+---
 
 # US 010, Lists
 *This is a ordered list*
@@ -21,7 +22,8 @@ alert("This is a js-code block")
 * but is still
 - a list
 ```
-<<<<<<< HEAD
+---
+
 # US 002, Java
 ```java
 lass HelloWorld {
@@ -30,14 +32,12 @@ lass HelloWorld {
     }
 }
 ```
-<<<<<<< HEAD
 ---
 
 # US 003, Insert image
 > For inserting an image through its link we can write the the link of the image in parentheses.
-[JS logo](https://static.javatpoint.com/images/javascript/javascript_logo.png)
+![JS logo](https://static.javatpoint.com/images/javascript/javascript_logo.png)
 ---
-
 
 # US 005, Links
 
@@ -63,6 +63,7 @@ lass HelloWorld {
 ```
 <img src="/Volumes/kod/userstories/kaffe.jpeg" alt="Alt text" title="Optional title">
 ```
+---
 
 # US 006, Tables
 *To create a table we do like this: *
