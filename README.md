@@ -95,4 +95,4 @@ __bold text__
 ---
 
 # US 008, Emoticon
-For using emoticons can use : and then write the emoticon fron of that. :happy
+For using emoticons can use : and then write the emoticon fron of that. :happy  :smiley
