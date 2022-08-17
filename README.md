@@ -36,6 +36,5 @@ lass HelloWorld {
 >>>>>>> 43f545d50816d0f2294e74b2183f5bb2c06b0efe
 
 ```
-![alt text](http://url/to/img.png)
-
+![Kaffe](/Volumes/kod/kaffe.jpeg)
 ```
