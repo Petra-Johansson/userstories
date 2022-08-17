@@ -82,4 +82,14 @@ and this is the result:
 | :----        | :--------:    | -----:        |
 |Stuff aligned | Stuff aligned | Stuff aligned |
 |to the left   | in the center | to the right  |
+---
 
+# US 007, Bold and Italic
+For italic we can use underline or * in the beginig and the end of the text that we want to italic it.
+We can write _like that_ or *that*
+*italic text*
+
+For bold we can use 2 underlines or * in the  beginig and the end of the text that we want to bold it.
+We can write __like that_ or **that**
+__bold text__
+---
