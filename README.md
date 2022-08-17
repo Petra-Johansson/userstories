@@ -61,7 +61,7 @@ lass HelloWorld {
 # US 003, Insert image
 > For inserting an image that is in your repo.
 ```
-<img src="/Volumes/kod/userstories/kaffe.jpeg" alt="Alt text" title="Optional title">
+![Alt text](userstories/kaffe.jpeg "Optional Title")
 ```
 ---
 
