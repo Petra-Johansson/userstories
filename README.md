@@ -72,3 +72,10 @@ lass HelloWorld {
 |Stuff aligned | Stuff aligned | Stuff aligned |
 |to the left   | in center     | to the right  |
 ```
+and this is the result:
+
+| Header       | Header        | Header        |
+| :----        | :--------:    | -----:        |
+|Stuff aligned | Stuff aligned | Stuff aligned |
+|to the left   | in the center | to the right  |
+
