@@ -63,9 +63,9 @@ lass HelloWorld {
 ``` 
 # US 003, Insert image
 > For inserting an image that is in your repo.
-```
+---
 ![Alt text](https://github.com/Petra-Johansson/userstories/blob/main/kaffe.jpeg?raw=true "Optional Title")
-```
+---
 ---
 
 # US 006, Tables
