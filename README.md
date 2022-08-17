@@ -93,3 +93,6 @@ For bold we can use 2 underlines or * in the  beginig and the end of the text th
 We can write __like that_ or **that**
 __bold text__
 ---
+
+# US 008, Emoticon
+For using emoticons can use : and then write the emoticon fron of that. :happy
