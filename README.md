@@ -48,3 +48,12 @@ lass HelloWorld {
 ```
 <img src="/Volumes/kod/kaffe.jpeg" alt="Alt text" title="Optional title">
 ```
+
+# US 006, Tables
+*To create a table we do like this: *
+```
+| Header       | Header        | Header        |
+|:---          |:----------:   | ----------:   |
+|Stuff aligned | Stuff aligned | Stuff aligned |
+|to the left   | in center     | to the right  |
+```
