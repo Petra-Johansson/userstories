@@ -61,9 +61,10 @@ lass HelloWorld {
 [1]: <https://github.com/Petra-Johansson/userstories>
 
 ``` 
-
+# US 003, Insert image
+> For inserting an image that is in your repo.
 ```
-<img src="/Volumes/kod/kaffe.jpeg" alt="Alt text" title="Optional title">
+<img src="/Volumes/kod/userstories/kaffe.jpeg" alt="Alt text" title="Optional title">
 ```
 ---
 
@@ -75,3 +76,10 @@ lass HelloWorld {
 |Stuff aligned | Stuff aligned | Stuff aligned |
 |to the left   | in center     | to the right  |
 ```
+and this is the result:
+
+| Header       | Header        | Header        |
+| :----        | :--------:    | -----:        |
+|Stuff aligned | Stuff aligned | Stuff aligned |
+|to the left   | in the center | to the right  |
+
