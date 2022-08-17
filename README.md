@@ -58,9 +58,10 @@ lass HelloWorld {
 [1]: <https://github.com/Petra-Johansson/userstories>
 
 ``` 
-
+# US 003, Insert image
+> For inserting an image that is in your repo.
 ```
-<img src="/Volumes/kod/kaffe.jpeg" alt="Alt text" title="Optional title">
+<img src="/Volumes/kod/userstories/kaffe.jpeg" alt="Alt text" title="Optional title">
 ```
 ---
 
