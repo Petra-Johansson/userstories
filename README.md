@@ -17,8 +17,8 @@ alert("This is a js-code block")
 *This is an unordered list*
 ```
 - It's not
-- numbered
-- but is still
++ numbered
+* but is still
 - a list
 ```
 
