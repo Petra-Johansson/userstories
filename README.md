@@ -47,3 +47,12 @@ Class HelloWorld {
 
 [1]: <https://github.com/Petra-Johansson/userstories>
 ```
+
+# US 006, Tables
+*To create a table we do like this: *
+```
+| Header       | Header        | Header        |
+|:---          |:----------:   | ----------:   |
+|Stuff aligned | Stuff aligned | Stuff aligned |
+|to the left   | in center     | to the right  |
+```
