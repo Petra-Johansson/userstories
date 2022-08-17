@@ -21,16 +21,26 @@ alert("This is a js-code block")
 * but is still
 - a list
 ```
-<<<<<<< HEAD
+
 # US 002, Java
 ```java
-lass HelloWorld {
+Class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
 }
 ```
-=======
+
 # US 005, Links
+*The easiest way to create a link is simply by putting the url in <>:*
+<https://github.com/Petra-Johansson/userstories>
+
+*If you want to, you can also add a Title to your link:*
 [Link to Repo](https://github.com/petra-johansson/userstories "This is the way you link to a specific webpage")
->>>>>>> 43f545d50816d0f2294e74b2183f5bb2c06b0efe
+
+
+**You can also create reference links*
+[Ref to repo-link][1]
+
+[1]: <https://github.com/Petra-Johansson/userstories>
+
