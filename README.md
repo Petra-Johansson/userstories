@@ -97,3 +97,114 @@ __bold text__
 # US 008, Emoticon
 For using emoticons can use : and then write the emoticon fron of that. :happy  :smiley
 :smiley:
+---
+# 009, Horisontal Ruler
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+# US 010
+
+*This is a ordered list*
+```
+1. It's numbered
+i2. From 1..
+3. etc etc
+```
+*This is an unordered list*
+```
+- It's not
++ numbered
+* but is still
+- a list
+```
+___
+# US 011, Blockqoutes
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+---
+# US 012, Making a ER-diagram, using mermai
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    CUSTOMER {
+        string name
+        string custNumber
+        string sector
+    }
+    ORDER ||--|{ LINE-ITEM : contains
+    ORDER {
+        int orderNumber
+        string deliveryAddress
+    }
+    LINE-ITEM {
+        string productCode
+        int quantity
+        float pricePerUnit
+    }
+
+```
+---
+# US 013, Class diagram using Mermaid
+```mermaid
+ classDiagram
+      Animal <|-- Duck
+      Animal <|-- Fish
+      Animal <|-- Zebra
+      Animal : +int age
+      Animal : +String gender
+      Animal: +isMammal()
+      Animal: +mate()
+      class Duck{
+          +String beakColor
+          +swim()
+          +quack()
+      }
+      class Fish{
+          -int sizeInFeet
+          -canEat()
+      }
+      class Zebra{
+          +bool is_wild
+          +run()
+      }
+
+```
+---
+# US 015, Higlight certain words in Markdown
+```html
+For marking words in highlighted text ==Highlighted text==. and so on
+<span style="background-color: #FFFF00"> Very importent words</span>.
+```
+---
+# US 016, Making a sequence diagram in Markdown using Mermaid.
+```mermaid
+sequenceDiagram
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
+```
+---
+# US 017, Making a Git Graph in Markdown using Mermaid.
+
+```mermaid
+ gitGraph
+       commit
+       commit
+       branch develop
+       checkout develop
+       commit
+       commit
+       checkout main
+       merge develop
+       commit
+       commit
+```
+---
