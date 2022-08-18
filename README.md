@@ -220,6 +220,7 @@ sequenceDiagram
 
 # US 18, Making a strikethrough text
 `~~This text~~is strikethrugh and the result is this:  `
+
 ~~This text~~ is strikethrough
 
 # US 19, Making inline codelblock
@@ -227,17 +228,22 @@ sequenceDiagram
 `<p>This is a paragraph</p>`
 
 # US 20, Making tasks list
-`for task list we use asterisk and [x] for checked or [] for unchecked task`
+`for task list we use asterisk * and [x] for checked or [] for unchecked task`
+
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
 
 # US 21 (extra), Making a toogle button
+`this is the syntax for toogle
 ```toogle syntax
 <details>
 	<summary>This is a toogle!</summary>
 </details>
 ```
+
+`this is the result`
+
 <details>
     <summary>This is a toogle!</summary>
     Content of toogle.
