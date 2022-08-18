@@ -63,7 +63,7 @@ lass HelloWorld {
 ```
 > <https://github.com/Petra-Johansson/userstories>
 
-==and the result will be this:==
+<mark>and the result will be this:</mark>
 ```
 > <https://github.com/Petra-Johansson/userstories>
 
