@@ -14,22 +14,41 @@ alert("This is a js-code block")
 # US 010, Lists
 
 ### This is an ordered list
-
+```
+We simply write a number and a dot and then the list item
+1. item
+2. item
+3. item 
+and the result will be this: 
+```
 1. It's numbered
 2. From 1..
 3. etc etc
 
 
 ### This is an unordered list
+```
+for this we write an asterix, * , or a dash, - , and then the list item
+* item
+- item 2
 
+the reuslt will be:
+```
 * It's not
 * numbered
-* Instead we use
-* an asterix. 
+- Instead we use
+- an asterix or dash. 
 
 
 ### We can of course also create a task list:
+```
+for this we write a dash, a pair of square brackets and x in the boxes we want filled
+or just an empty space for an unfilled box.
+- [ ] item 1
+- [x] item 2
 
+and the result is this: 
+```
 - [x] Learn stuff
 - [ ] Learn more stuff
 - [ ] Get a job
@@ -63,7 +82,7 @@ lass HelloWorld {
 ```
 > <https://github.com/Petra-Johansson/userstories>
 
-<mark>and the result will be this:</mark>
+and the result will be this:
 ```
 > <https://github.com/Petra-Johansson/userstories>
 
