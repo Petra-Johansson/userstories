@@ -44,18 +44,25 @@ lass HelloWorld {
 > ```javascript ..... ```
 # US 005, Links
 
-*The easiest way to create a link is simply by putting the url in <>:*
+### The easiest way to create a link is simply by putting the url in <>:
 ```
-<https://github.com/Petra-Johansson/userstories>
+> <https://github.com/Petra-Johansson/userstories>
 
+and the result will be this:
 ```
-*If you want to, you can also add a Title to your link:*
-```
-[Link to Repo](https://github.com/petra-johansson/userstories "This is the way you link to a specific webpage")
+> <https://github.com/Petra-Johansson/userstories>
 
-```
 
-**You can also create reference links*
+### If you want to, you can also add a Title to your link:
+```
+> [Link to Repo](https://github.com/petra-johansson/userstories "This is a likn with a title")
+
+
+and the result will be this:
+```
+> [Link to Repo](https://github.com/Petra-Johansson/userstories "This is a link with a title")
+
+### You can also create reference links:
 ```
 [Ref to repo-link][1]
 [1]: <https://github.com/Petra-Johansson/userstories>
@@ -69,19 +76,19 @@ lass HelloWorld {
 ---
 
 # US 006, Tables
-*To create a table we do like this: *
+*To create a table we do like this:*
 ```
-| Header       | Header        | Header        |
-|:---          |:----------:   | ----------:   |
-|Stuff aligned | Stuff aligned | Stuff aligned |
-|to the left   | in center     | to the right  |
+> | Header       | Header        | Header        |
+> |:---          |:----------:   | ----------:   |
+> |Stuff aligned | Stuff aligned | Stuff aligned |
+> |to the left   | in center     | to the right  |
 ```
-and this is the result:
+*and this is the result:*
 
-| Header       | Header        | Header        |
-| :----        | :--------:    | -----:        |
-|Stuff aligned | Stuff aligned | Stuff aligned |
-|to the left   | in the center | to the right  |
+> | Header       | Header        | Header        |
+> | :----        | :--------:    | -----:        |
+> |Stuff aligned | Stuff aligned | Stuff aligned |
+> |to the left   | in the center | to the right  |
 ---
 
 # US 007, Bold and Italic
@@ -112,16 +119,17 @@ For using emoticons can use : and then write the emoticon fron of that. :happy  
 
 *This is a ordered list*
 ```
-1. It's numbered
-i2. From 1..
-3. etc etc
+> 1. It's numbered
+> 2. From 1..
+> 3. etc etc
 ```
 *This is an unordered list*
 ```
-- It's not
-+ numbered
-* but is still
-- a list
+> - It's not
+> - numbered
+> * but still
+> * a list 
+> - :joy:
 ```
 ___
 # US 011, Blockqoutes
