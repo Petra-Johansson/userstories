@@ -87,7 +87,7 @@ and the result will be this:
 
 ### If you want to, you can also add a Title to your link:
 ```
- [Link to Repo](https://github.com/petra-johansson/userstories "This is a likn with a title")
+ [Link to Repo](https://github.com/petra-johansson/userstories "This is a link with a title")
 
 and the result will be this:
 ```
@@ -96,7 +96,7 @@ and the result will be this:
 ### You can also create reference links:
 ```
 This is a [Ref to repo] link.
-You can use it if you för example want to have all of your links gathered in one place of a document.
+You can use it if you for example want to have all of your links gathered in one place of a document.
 
 
 [Ref to repo]: https://github.com/Petra-Johansson/userstories
@@ -104,7 +104,7 @@ You can use it if you för example want to have all of your links gathered in on
 it gives this result: 
 ```
 This is a [Ref to repo] link.
-You can use it if you för example want to have all of your links gathered in one place of a document.
+You can use it if you for example want to have all of your links gathered in one place of a document.
 
 [Ref to repo]: https://github.com/Petra-Johansson/userstories
 
