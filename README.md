@@ -100,8 +100,10 @@ and the result will be this:
 
 with this result: 
 ```
-[Ref to repo-link][1]
-[1]: <https://github.com/Petra-Johansson/userstories>
+This is a [Ref to repo] link.
+You can use it if you för example want to have all of your links gathered in one place of a document.
+
+[Ref to repo]: https://github.com/Petra-Johansson/userstories
 
 ---
 
