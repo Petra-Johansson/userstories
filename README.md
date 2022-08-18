@@ -24,15 +24,15 @@ alert("This is a js-code block")
 
 * It's not
 * numbered
-* but is still
-* a list
+* Instead we use
+* an asterix. 
 
 
-### We can of course also create a task list:
+### We can of course also create a ==task list==:
 
 - [x] Learn stuff
-- [] Learn more stuff
-- [] Get a job
+- [ ] Learn more stuff
+- [ ] Get a job
 
 ---
 
