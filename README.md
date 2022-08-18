@@ -31,33 +31,31 @@ and the result will be this:
 for this we write an asterix, * , or a dash, - , and then the list item
 * item
 - item 2
+* item 3
 
 the reuslt will be:
 ```
-* It's not
-* numbered
-- Instead we use
-- an asterix or dash. 
-
+* item 
+- item 2
+* item 3
 
 ### We can of course also create a task list:
 ```
-for this we write a dash, a pair of square brackets and x in the boxes we want filled
+for this we write a dash, a pair of square brackets and x in the boxes we want marked
 or just an empty space for an unfilled box.
 - [ ] item 1
 - [x] item 2
 
 and the result is this: 
 ```
-- [x] Learn stuff
-- [ ] Learn more stuff
-- [ ] Get a job
+- [ ] item 1
+- [x] item 2
 
 ---
 
 # US 002, Java
 ```java
-lass HelloWorld {
+Class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
@@ -72,7 +70,7 @@ lass HelloWorld {
 
 # US 004, JS
 > For writing javascript code block in markdown we need to use three backtick and the writng the javascript name front of that without any space and write done the code and close and finish it with 3 backtick again. Here we have the example:
-> ```javascript ..... ```
+>```javascript.....```
 
 ---
 
@@ -80,7 +78,7 @@ lass HelloWorld {
 
 ### The easiest way to create a link is simply by putting the url in <>:
 ```
-> <https://github.com/Petra-Johansson/userstories>
+ <https://github.com/Petra-Johansson/userstories>
 
 and the result will be this:
 ```
@@ -89,8 +87,7 @@ and the result will be this:
 
 ### If you want to, you can also add a Title to your link:
 ```
-> [Link to Repo](https://github.com/petra-johansson/userstories "This is a likn with a title")
-
+ [Link to Repo](https://github.com/petra-johansson/userstories "This is a likn with a title")
 
 and the result will be this:
 ```
@@ -101,7 +98,10 @@ and the result will be this:
 [Ref to repo-link][1]
 [1]: <https://github.com/Petra-Johansson/userstories>
 
+with this result: 
 ```
+[Ref to repo-link][1]
+[1]: <https://github.com/Petra-Johansson/userstories>
 
 ---
 
