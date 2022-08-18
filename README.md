@@ -28,7 +28,7 @@ alert("This is a js-code block")
 * an asterix. 
 
 
-### We can of course also create a ==task list==:
+### We can of course also create a task list:
 
 - [x] Learn stuff
 - [ ] Learn more stuff
@@ -63,7 +63,7 @@ lass HelloWorld {
 ```
 > <https://github.com/Petra-Johansson/userstories>
 
-and the result will be this:
+==and the result will be this:==
 ```
 > <https://github.com/Petra-Johansson/userstories>
 
