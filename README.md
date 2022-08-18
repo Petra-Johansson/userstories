@@ -1,6 +1,9 @@
 # userstories
 
 # US 001, JavaScript
+
+### This is a way of writing a JS code block:
+
 ```js
 function jsblock(){
 alert("This is a js-code block")
@@ -9,19 +12,28 @@ alert("This is a js-code block")
 ---
 
 # US 010, Lists
-*This is a ordered list*
-```
+
+### This is an ordered list
+
 1. It's numbered
 2. From 1..
 3. etc etc
-```
-*This is an unordered list*
-```
-- It's not
-+ numbered
+
+
+### This is an unordered list
+
+* It's not
+* numbered
 * but is still
-- a list
-```
+* a list
+
+
+### We can of course also create a task list:
+
+- [x] Learn stuff
+- [] Learn more stuff
+- [] Get a job
+
 ---
 
 # US 002, Java
@@ -42,6 +54,9 @@ lass HelloWorld {
 # US 004, JS
 > For writing javascript code block in markdown we need to use three backtick and the writng the javascript name front of that without any space and write done the code and close and finish it with 3 backtick again. Here we have the example:
 > ```javascript ..... ```
+
+---
+
 # US 005, Links
 
 ### The easiest way to create a link is simply by putting the url in <>:
@@ -67,21 +82,28 @@ and the result will be this:
 [Ref to repo-link][1]
 [1]: <https://github.com/Petra-Johansson/userstories>
 
-``` 
+```
+
+---
+
 # US 003, Insert image
 > For inserting an image that is in your repo.
 ---
 ![Alt text](https://github.com/Petra-Johansson/userstories/blob/main/kaffe.jpeg?raw=true "Optional Title")
+
 ---
+
 ---
 
 # US 006, Tables
-*To create a table we do like this:*
+
+### To create a table we do like this:
+
 ```
-> | Header       | Header        | Header        |
-> |:---          |:----------:   | ----------:   |
-> |Stuff aligned | Stuff aligned | Stuff aligned |
-> |to the left   | in center     | to the right  |
+ | Header       | Header        | Header        |
+ |:---          |:----------:   | ----------:   |
+ |Stuff aligned | Stuff aligned | Stuff aligned |
+ |to the left   | in center     | to the right  |
 ```
 *and this is the result:*
 
