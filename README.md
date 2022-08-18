@@ -208,3 +208,28 @@ sequenceDiagram
        commit
 ```
 ---
+
+# US 14, Making Headings 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+# US 18, Making a strikethrough text
+~~This text~~ is strikethrough
+
+# US 19, Making inline codelblock
+`<p>This is a paragraph</p>`
+
+# US 20, Making tasks list
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
+
+# US 21 (extra), Making a toogle button
+<details>
+    <summary>This is a toogle!</summary>
+    Content of toogle.
+</details>
