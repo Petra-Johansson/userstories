@@ -209,7 +209,8 @@ sequenceDiagram
 ```
 ---
 
-# US 14, Making Headings 
+# US 14, Making Headings
+´to make headings we use #for h1 and up to ###### for h6´
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -218,19 +219,26 @@ sequenceDiagram
 ###### Heading 6
 
 # US 18, Making a strikethrough text
+`~~This text~~is strikethrugh and the result is this:  `
 ~~This text~~ is strikethrough
 
 # US 19, Making inline codelblock
+`to make an inline block we use backticks`
 `<p>This is a paragraph</p>`
 
 # US 20, Making tasks list
+`for task list we use asterisk and [x] for checked or [] for unchecked task`
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
 
 # US 21 (extra), Making a toogle button
+```toogle syntax
+<details>
+	<summary>This is a toogle!</summary>
+</details>
+```
 <details>
     <summary>This is a toogle!</summary>
     Content of toogle.
 </details>
-
