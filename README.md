@@ -28,7 +28,7 @@ and the result will be this:
 
 ### This is an unordered list
 ```
-for this we write an asterix, * , or a dash, - , and then the list item
+for this we write an asterisk, * , or a dash, - , and then the list item
 * item
 - item 2
 * item 3
@@ -41,8 +41,8 @@ the reuslt will be:
 
 ### We can of course also create a task list:
 ```
-for this we write a dash, a pair of square brackets and x in the boxes we want marked
-or just an empty space for an unfilled box.
+for this we write a dash, a pair of square brackets and an  x in the boxes we want marked - 
+or just an empty space for an unfilled box!
 - [ ] item 1
 - [x] item 2
 
